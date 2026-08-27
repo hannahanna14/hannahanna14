@@ -1,9 +1,7 @@
 # About Me 👋
 
-- 🔭 I’m currently working on my studies and my capstone project in bitbucket.(done)
 - 🌱 I’m currently learning laravel, inertia, vuejs, primevue, github.
-- 📫 How to reach me: Gmail: hanna.apus@gmail.com
-- 😄 Pronouns: They/Them
+- 📫 How to reach me: Gmail: apus.jhohanna11@gmail.com
 - 🎓 Major: Database Management
 - I like Reading.
 - I am a fast learner.
